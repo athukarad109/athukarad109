@@ -5,7 +5,8 @@
 
 - I’m looking for help with [Scaling Ghidra MCP Bridge for Production Use](https://github.com/athukarad109/ghidra-mcp)
 
-- 📫 How to reach me **https://www.linkedin.com/in/athukarad109/**
+- Check this out [Fine-tune your resume for each job](https://github.com/athukarad109/resume-tailor)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
