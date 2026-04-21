@@ -1,19 +1,31 @@
-<h1 align="center">Hi 👋, I'm Atharv Kulkarni</h1>
-<h3 align="center">AI Security Engineer | Building Autonomous Security Systems | LLM Security, Agentic AI, Compliance Automation</h3>
+### Atharv Kulkarni
 
-- I am working on [AI-Powered GRC Automation Platform](https://github.com/athukarad109/GRC_taxonomy_harmonizer)
+**AI Security Engineer** — designing agentic systems for security, compliance, and trust.
 
-- I’m looking for help with [Scaling Ghidra MCP Bridge for Production Use](https://github.com/athukarad109/ghidra-mcp)
+Currently at **Ardent Privacy**, architecting AI platforms that translate regulatory frameworks (GDPR, DPDPA, HIPAA, SOC 2) into executable security workflows.
 
-- Check this out [Fine-tune your resume for each job](https://github.com/athukarad109/resume-tailor)
+---
 
+#### Focus
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/athukarad109" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="athukarad109" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/athukarad109" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="athukarad109" height="30" width="40" /></a>
+- **AI Security & Agentic Systems** — LLM security, MCP architectures, autonomous agents
+- **Application & Cloud Security** — threat modeling, secure API design, OWASP Top 10
+- **Compliance & Governance** — automated control harmonization across NIST, ISO 27001, PCI DSS
 
-</p>
+#### Selected Work
 
-<!-- <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p> -->
+- **[Ghidra-MCP](https://github.com/athukarad109/ghidra-mcp)** — Agentic reverse-engineering assistant integrating Ghidra with the Model Context Protocol. ~60% faster malware triage.
+- **[GRC Taxonomy Harmonizer](https://github.com/athukarad109/GRC_taxonomy_harmonizer)** — Automated control mapping across NIST, ISO 27001, SOC 2, and HIPAA.
+- **[DSAR Automation](https://github.com/athukarad109/dsar-automation)** — End-to-end Data Subject Access Request handling for GDPR/DPDPA.
+- **[Resume Tailor](https://github.com/athukarad109/resume-tailor)** — Fine-tunes a resume for each job description.
+- **[PoliLight](https://github.com/athukarad109/poli-light)** — Lightweight JSON policy engine for IoT edge nodes.
+
+#### Background
+
+MS in Cybersecurity, UMBC (3.8 GPA) · CompTIA Security+ · Previously at Wipro on Lloyds Banking Group cloud migration validation.
+
+---
+
+<a href="https://www.linkedin.com/in/athukarad109/">LinkedIn</a> ·
+<a href="https://twitter.com/athukarad109">Twitter</a> ·
+<a href="mailto:athukarad109@gmail.com">athukarad109@gmail.com</a>
